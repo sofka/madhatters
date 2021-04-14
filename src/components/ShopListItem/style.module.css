@@ -1,0 +1,37 @@
+.shopListItem {
+    
+}
+
+.shopListItem img {
+    width: 511px;
+    height: 446px;
+}
+
+.shopListItem__textBlock {
+    background: #F6ECE8;
+    width: 511px;
+    height: 181px;
+    display: table-cell;
+    text-align: center;
+}
+
+.shopListItem__header {
+    font-family: "Playfair Display";
+    font-style: italic;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #967675;
+}
+
+.shopListItem__text {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 165.9%;
+    /* or 27px */
+    text-align: center;
+    color: #967675;
+}

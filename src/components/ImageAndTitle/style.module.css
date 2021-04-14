@@ -1,0 +1,27 @@
+.imageAndTitle {
+    width: 70%;
+    margin-top: 163px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #23242C;
+}
+
+.imageAndTitle__textBlock{
+    float: right;
+    width: 45%;
+    margin-left: 79px;
+}
+
+.imageAndTitle__woomen{
+    width: 45%;
+}
+
+.imageAndTitle__text{
+    display: block;
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 102px;
+    line-height: 110px;
+}
+

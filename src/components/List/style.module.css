@@ -1,0 +1,33 @@
+.list {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin-top: 330px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list li {
+    font-family: "Playfair Display";
+    font-style: italic;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 51px;
+    color: #111111;
+    list-style-image:    url('../../images/item-icon.png');
+    padding-left: 30px;
+}
+
+.subList li {
+    display: inline-block;
+    width: 233px;
+    height: 109px;
+    text-align: left;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 165.9%;
+    color: #9D8888;
+    background-image: none;
+}

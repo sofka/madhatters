@@ -1,0 +1,54 @@
+.herobar {
+    top: 316px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    color: #23242C;
+}
+
+.herobar__madhatters {
+    display: block;
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 102px;
+    line-height: 110px;
+}
+
+.herobar__bc {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.52px;
+    line-height: 40%;
+    width: 56.32px;
+}
+
+.herobar img {
+    position: absolute;
+}
+
+.herobar__ellipssmall {
+    top: 476px;
+    left: 737px;
+    z-index: 2;
+}
+
+.herobar__ellipsbig {
+    top: 351px;
+    left: 611px;
+    z-index: 1;
+}
+
+.herobar__women {
+    left: 849px;
+    top: 316px;
+    z-index: 4;
+}
+
+.herobar__men {
+    left: 991px;
+    top: 455px;
+    z-index: 3;
+}
