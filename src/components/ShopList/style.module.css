@@ -1,8 +1,8 @@
 .shopList {
-    margin-top: 217px;
+    margin-top: 128px;
     text-align: center;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: [one] 50% [two] 50% [three];
     column-gap: 119px;
     row-gap: 83px;
 }
