@@ -7,6 +7,7 @@ import OurRange from "./components/OurRange";
 import ShowMoreLink from './images/ShowMoreLink.png';
 import Quote from './images/Quote.png';
 import NewsLetter from "./components/NewsLetter";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <img  className="image-center" src={ShowMoreLink} alt="ShowMoreLink"/>
     <img className="image-center" src={Quote} alt="Quote"/>
     <NewsLetter/>
+    <Footer/>
     </React.Fragment>
   );
 }
